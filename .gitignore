@@ -1,0 +1,6 @@
+# [Python] ========================
+# Python complie files
+*.pyc
+
+# Files for output of claw web
+*.json
